@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, Everyone, my name is Ji Qi.
+Hi, Everyone, my name is Ji Qi. Nice to meet you all!😀😊😆
 
 I am currently a Ph.D. student in the Systems Engineering department at George Washington University. I hold a Master’s degree in Management Science and Engineering (Industrial Engineering) from Tianjin University and a Bachelor's degree in Economic Statistics from Zhengzhou University. 
 
