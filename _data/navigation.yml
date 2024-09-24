@@ -9,20 +9,20 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Publications-Waiting"
-    url: /publications/
+  # - title: "Publications-Waiting"
+  #   url: /publications/
 
-  - title: "Talks-Waiting"
-    url: /talks/    
+  # - title: "Talks-Waiting"
+  #   url: /talks/    
 
-  - title: "Teaching-Waiting"
-    url: /teaching/    
+  # - title: "Teaching-Waiting"
+  #   url: /teaching/    
     
-  - title: "Portfolio-Waiting"
-    url: /portfolio/
+  # - title: "Portfolio-Waiting"
+  #   url: /portfolio/
         
-  - title: "Blog Posts-Waiting"
-    url: /year-archive/
+  # - title: "Blog Posts-Waiting"
+  #   url: /year-archive/
     
-  - title: "Guide-Waiting"
-    url: /markdown/
+  # - title: "Guide-Waiting"
+  #   url: /markdown/
