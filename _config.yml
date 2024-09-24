@@ -27,7 +27,7 @@ author:
   bio              : "GWU-TJU-ZZU"
   location         : "Moon or Washington, D.C. 😀"
   employer         : " Department of Engineering Management and Systems Engineering "
-                     " The George Washington University"
+                     #" The George Washington University"
   uri              : # URL
   email            : "ji.qi1@gwmail.gwu.edu" 
 
