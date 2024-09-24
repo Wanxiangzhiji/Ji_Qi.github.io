@@ -39,7 +39,9 @@ Work experience
 * Business Consulting Intern, A&IM Service Line
   * Deloitte Consulting
   * Internship
-  
+
+```
+#以下内容不显示需要的时候可添加  
 Skills
 ======
 
@@ -64,4 +66,4 @@ Teaching
   
 Service and leadership
 ======
-* 
+```
