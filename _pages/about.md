@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, Everyone, my name is Ji Qi. Welcome to my personal websit!👋👋 Nice to meet you all!😀😊
+Hi, Everyone, my name is Ji Qi. Welcome to my personal website!👋👋 Nice to meet you all!😀😊
 
 I am currently a Ph.D. student in the Systems Engineering department at George Washington University, working with Pro. Caitlin Grady in our FEWsLab👑. I hold a Master’s degree in Management Science and Engineering (Industrial Engineering) from Tianjin University and a Bachelor's degree in Economic Statistics from Zhengzhou University. 
 
@@ -15,7 +15,7 @@ In the past, I have interned with leading companies across various industries, i
 
 His past work includes resilience analysis of financial risk networks and the application of reinforcement learning in industrial system degradation modeling. 
 
-Currently, my research focuses on nitrogen emission management and policy analysis within the sustainable agriculture framework🌏, with the goal of formulating data-driven policy insights through network and risk analysis to support sustainable development goals.
+Currently, my research focuses on nitrogen emission management and policy analysis within the sustainable agriculture framework 💭🌏🌍🌏, with the goal of formulating data-driven policy insights through network and risk analysis to support sustainable development goals.
 
 
 
