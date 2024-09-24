@@ -113,9 +113,11 @@
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn</a></li>
       {% endif %}      
       #}
+     {# 
       {% if author.linkedin %} {# 这是用于根据 LinkedIn 用户名生成链接的代码 #}
          <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn</a></li>
-      {% elif author.website_linkedin %} {# 如果用户名不可用，使用完整的 LinkedIn URL #}
+      #}
+      {% if author.website_linkedin %} {# 如果用户名不可用，使用完整的 LinkedIn URL #}
          <li><a href="{{ author.website_linkedin }}"><i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn</a></li>
       {% endif %}
       {% if author.mastodon %}
